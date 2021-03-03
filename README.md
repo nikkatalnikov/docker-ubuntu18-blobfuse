@@ -1,3 +1,8 @@
+# docker-ubuntu18-blobfuse fork of Docker Compose
+
+Includes original docker-ubuntu18-blobfuse image without AZURE_MOUNT_POINT dir recraetion on start.
+
+
 # docker-ubuntu18-blobfuse
 
 Docker image based on ubuntu:18.04 which mounts an Azure blob
